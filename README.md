@@ -11,7 +11,7 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 * Exploring Correlations.
 
 # Imputed missing values:
-*There are over 80 features(columns) in dataset, which makes it a mammoth task. Features are Imputed by following:
+* There are over 80 features(columns) in dataset, which makes it a mammoth task. Features are Imputed by following:
 * Median.
 * Mode.
 * Manual functions.
@@ -25,7 +25,7 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 # Feature Scaling
   * Due to the presence of outliers, used sklearn's RobustScaler since it is not affected by outliers.
 
-# Used sklearn Pipelines since they sequentially apply a list of transforms and a final estimator. Pipelines can be saved as pkl file for ease of access. It simpifies training code and improves readability.
+* Used sklearn Pipelines since they sequentially apply a list of transforms and a final estimator. Pipelines can be saved as pkl file for ease of access. It simpifies training code and improves readability.
 
 # Models used are:
 * RidgeCV model.
@@ -39,4 +39,4 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 # Blending
 * Blending involves taking simple/weighted averages of our predictions to give our final predictions.
 
-## Saved Light Grading boosting, Stacked and XGBoost Regression Predictions to csv files.
+# Saved the predictions to csv files.
