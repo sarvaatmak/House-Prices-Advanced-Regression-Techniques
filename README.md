@@ -10,7 +10,8 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 * Dealing with Outliers.
 * Exploring Correlations.
 
-# Imputed missing values thre are over 80 features(columns) in dataset, which makes it a mammoth task. Features are Imputed by following:
+# Imputed missing values:
+*There are over 80 features(columns) in dataset, which makes it a mammoth task. Features are Imputed by following:
 * Median.
 * Mode.
 * Manual functions.
