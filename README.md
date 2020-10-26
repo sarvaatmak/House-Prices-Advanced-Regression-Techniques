@@ -61,6 +61,6 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 *XGB Regression Cross Validation Score: -0.01687074227172932
 
 *LGB Regression Cross Validation Score: -0.01603367673085801
-## Here we can conclude that Light Grading boosting has Cross Validation Score: -0.01603367673085801 which is lowest compared to all other models .
+### Here we can conclude that Light Grading boosting has Cross Validation Score: -0.01603367673085801 which is lowest compared to all other models .
 
-# Saved the predictions to csv files.
+## Saved the predictions to csv files.
