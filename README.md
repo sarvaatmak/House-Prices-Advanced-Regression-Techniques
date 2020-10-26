@@ -27,7 +27,7 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 * Mode.
 * Manual functions.
 
-# Worked on Feature engineering containing:
+# Worked on Feature engineering of:
 * Numerical variables.
 * Categorical variables.
 * Ordinal variables.
@@ -36,7 +36,7 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 # Feature Scaling
   * Due to the presence of outliers, used sklearn's RobustScaler since it is not affected by outliers.
 
-* Used sklearn Pipelines since they sequentially apply a list of transforms and a final estimator. Pipelines can be saved as pkl file for ease of access. It simpifies training code and improves readability.
+#### Used sklearn Pipelines since they sequentially apply a list of transforms and a final estimator. Pipelines can be saved as pkl file for ease of access. It simpifies training code and improves readability.
 
 # Models used are:
 * RidgeCV model.
