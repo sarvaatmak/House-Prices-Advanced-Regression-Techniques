@@ -39,4 +39,16 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 # Blending
 * Blending involves taking simple/weighted averages of our predictions to give our final predictions.
 
+# Model performance
+*Ridge Regression Cross Validation Score: -0.020624477100858817
+
+*Lasso Cross Validation Score: -0.025771379440506597
+
+*ElasticNet Cross Validation Score: -0.0211354966632166
+
+*XGB Regression Cross Validation Score: -0.01687074227172932
+
+*LGB Regression Cross Validation Score: -0.01603367673085801
+## Here we can conclude that Light Grading boosting has Cross Validation Score: -0.01603367673085801 which is lowest compared to all other models .
+
 # Saved the predictions to csv files.
