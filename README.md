@@ -13,7 +13,7 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 
 ## Dealing with Outliers.
 ![](https://github.com/sarvaatmak/House-Prices-Advanced-Regression-Techniques/blob/main/images/outliers.png)
-###Outliers tweaked using log.
+### After Outliers are tweaked using log.
 ![](https://github.com/sarvaatmak/House-Prices-Advanced-Regression-Techniques/blob/main/images/norm2.png)
 
 ## Exploring Correlations.
