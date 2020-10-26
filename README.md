@@ -16,6 +16,7 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 ![](https://github.com/sarvaatmak/House-Prices-Advanced-Regression-Techniques/blob/main/images/outliers.png)
 
 * Exploring Correlations.
+
 ![](https://github.com/sarvaatmak/House-Prices-Advanced-Regression-Techniques/blob/main/images/correlations.png)
 
 # Imputed missing values:
