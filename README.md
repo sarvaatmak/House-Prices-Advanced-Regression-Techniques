@@ -7,7 +7,6 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 
 # Exploratory Data Analysis: 
 * Ensuring Approximate Normality of dependent variable.
-![Alt text](/relative/C:/Users/Sarvatmak/Downloads/200x150/norm1.png?raw=true )
 * Dealing with Outliers.
 * Exploring Correlations.
 
