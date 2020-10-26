@@ -20,7 +20,7 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 ![](https://github.com/sarvaatmak/House-Prices-Advanced-Regression-Techniques/blob/main/images/correlations.png)
 
 # Imputed missing values:
-* There are over 80 features(columns) in dataset, which makes it a mammoth task. Features are Imputed by following:
+## There are over 80 features(columns) in dataset, which makes it a mammoth task. Features are Imputed by following:
 ![](https://github.com/sarvaatmak/House-Prices-Advanced-Regression-Techniques/blob/main/images/missing.png)
 * Median.
 * Mode.
