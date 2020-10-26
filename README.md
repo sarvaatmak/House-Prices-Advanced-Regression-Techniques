@@ -3,7 +3,7 @@
 Ever wonder how houses are priced? Market forces work to reduce divergences between housing prices. However, sometimes, the process gets inefficient due to lack of speed in information circulation and inaccuracies in estimations. Using regression techniques to price the houses aim to address this issue. In this notebook, I aim to provide an example of how we can apply regression techniques to such a problem, end-to-end, Using EDA and feature engineering for building our model.
 
 # Project Overview
-* Created number of models that estimates House Prices to help customers get their dream house with accurate price.
+* Created number of advanced regression models that estimates House Prices to help customers get their dream house with accurate price.
 
 # Exploratory Data Analysis: 
 
