@@ -6,13 +6,21 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 * Created number of models that estimates House Prices to help customers get their dream house with accurate price.
 
 # Exploratory Data Analysis: 
+
 * Ensuring Approximate Normality of dependent variable.
-![Alt text](House-Prices-Advanced-Regression-Techniques/images/200*150/norm1.png?raw=true "SalePrice")
+
+![](https://github.com/sarvaatmak/House-Prices-Advanced-Regression-Techniques/blob/main/images/norm1.png)
+![](https://github.com/sarvaatmak/House-Prices-Advanced-Regression-Techniques/blob/main/images/norm2.png)
+
 * Dealing with Outliers.
+![](https://github.com/sarvaatmak/House-Prices-Advanced-Regression-Techniques/blob/main/images/outliers.png)
+
 * Exploring Correlations.
+![](https://github.com/sarvaatmak/House-Prices-Advanced-Regression-Techniques/blob/main/images/correlations.png)
 
 # Imputed missing values:
 * There are over 80 features(columns) in dataset, which makes it a mammoth task. Features are Imputed by following:
+![](https://github.com/sarvaatmak/House-Prices-Advanced-Regression-Techniques/blob/main/images/missing.png)
 * Median.
 * Mode.
 * Manual functions.
@@ -30,6 +38,7 @@ Ever wonder how houses are priced? Market forces work to reduce divergences betw
 
 # Models used are:
 * RidgeCV model.
+![](https://github.com/sarvaatmak/House-Prices-Advanced-Regression-Techniques/blob/main/images/ridge_weights_against_alphas.png)
 * LassoCV model.
 * ElasticNetCV model.
 * Xgboost model.
